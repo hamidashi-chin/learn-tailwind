@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "name": "learn-tailwind",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidashi-chin/learn-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidashi-chin/learn-tailwind/issues"
+  },
+  "homepage": "https://github.com/hamidashi-chin/learn-tailwind#readme",
+  "description": "## 初期セットアップ [公式サイト](https://tailwindcss.com/)"
+}
