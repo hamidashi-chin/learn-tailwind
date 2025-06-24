@@ -20,3 +20,7 @@ VSCodeのsetting.jsonの一番下に書きを追記する
 ```json
 "css.lint.unknownAtRules": "ignore"
 ```
+
+### スタイルの検索
+- [公式サイト](https://tailwindcss.com/)の虫眼鏡アイコン押して検索
+  - たとえば`font`と打ってみたり
