@@ -24,3 +24,8 @@ VSCodeのsetting.jsonの一番下に書きを追記する
 ### スタイルの検索
 - [公式サイト](https://tailwindcss.com/)の虫眼鏡アイコン押して検索
   - たとえば`font`と打ってみたり
+
+## ポートフォリオ作り
+
+### Googleフォント
+[Google Fonts: Browse Fonts](https://fonts.google.com/)
